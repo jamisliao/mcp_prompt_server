@@ -19,7 +19,7 @@
 
 ```bash
 # 進入專案目錄
-cd /Users/jamis.liao/opensource/mcp_prompt_server
+cd /Users/{your name}/opensource/mcp_prompt_server
 
 # 安裝依賴
 npm install
