@@ -40,7 +40,7 @@ npm run build
   "mcpServers": {
     "prompt-server": {
       "command": "node",
-      "args": ["/Users/jamis.liao/opensource/mcp_prompt_server/dist/index.js"]
+      "args": ["/Users/{your name}/opensource/mcp_prompt_server/dist/index.js"]
     }
   }
 }
